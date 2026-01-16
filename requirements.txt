@@ -1,0 +1,11 @@
+# Core ML packages
+numpy==1.26.0
+torch==2.9.1
+torchvision==0.24.1
+
+# Notebook / visualization
+jupyter
+matplotlib==3.8.0
+
+# Optional utilities for nicer notebook experience
+ipython
