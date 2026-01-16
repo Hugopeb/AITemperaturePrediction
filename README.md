@@ -15,11 +15,25 @@ The project is primarily research- and learning-oriented, emphasizing model desi
 
 -Implementation of neural network models for temperature forecasting
 
+![neuralnet_class](images/neuralnet_class.png)
+
+-High-level features for better performance and proper worklow
+
+![features](images/neuralnet_features.png)
+![features](images/earlystopping_class.png)
+
 -Data preprocessing and feature engineering for meteorological datasets
+
+![features](images/DATA_class.png)
+![features](images/DATA_treatment1.png)
+![features](images/DATA_treatment2.png)
 
 -Training and evaluation pipelines for time-series prediction
 
 -Visualization tools for model performance and forecast results
+
+![features](images/linear_WRF_comparison.png)
+![features](images/linear_WRF_boxplot.png)
 
 -Well-documented notebooks and scripts explaining design choices
 
@@ -103,6 +117,14 @@ You are free to use, copy, modify, merge, publish, distribute, sublicense, and/o
 **Disclaimer:** The software is provided "as is", without warranty of any kind, express or implied. The authors are not responsible for any claims, damages, or other liabilities.
 
 For the full license text, see the [LICENSE](LICENSE) file.
+
+---
+
+## Conclusion
+
+During this internship project, we successfully developed a neural network capable of predicting temperature with high accuracy. In our experiments, the network was able to outperform classical statistical models, demonstrating the potential of data-driven approaches for meteorological forecasting. This project focused exclusively on temperature prediction, but it highlights how neural networks can capture complex patterns in environmental data.
+
+![neuralnet_WRF_comparison](images/neuralnet_WRF_boxplot.png "Boxplot comparison of the neural net and the WRF model")
 
 ---
 
