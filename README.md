@@ -20,13 +20,10 @@ The project is primarily research- and learning-oriented, emphasizing model desi
 -High-level features for better performance and proper worklow
 
 ![features](images/neuralnet_features.png)
-![features](images/earlystopping_class.png)
 
 -Data preprocessing and feature engineering for meteorological datasets
 
 ![features](images/DATA_class.png)
-![features](images/DATA_treatment1.png)
-![features](images/DATA_treatment2.png)
 
 -Training and evaluation pipelines for time-series prediction
 
