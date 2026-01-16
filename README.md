@@ -119,14 +119,16 @@ For the full license text, see the [LICENSE](LICENSE) file.
 
 ## Conclusion
 
-During this internship project, we successfully developed a neural network capable of predicting temperature with high accuracy. In our experiments, the network was able to outperform classical statistical models, demonstrating the potential of data-driven approaches for meteorological forecasting. This project focused exclusively on temperature prediction, but it highlights how neural networks can capture complex patterns in environmental data.
+During this internship project, we successfully developed a neural network capable of predicting temperature with high accuracy. In our experiments, the network was able to outperform the WRF (Weather Research and Forecasting) model, demonstrating the potential of data-driven approaches for meteorological forecasting. This project focused exclusively on temperature prediction, but it highlights how neural networks can capture complex patterns in environmental data.
 
 ![neuralnet_WRF_comparison](images/neuralnet_WRF_boxplot.png "Boxplot comparison of the neural net and the WRF model")
 
 ---
 
-## Note
+## Notes
 
 This project was developed as part of an internship and is intended for educational and research purposes. While the models demonstrate the potential of neural networks for temperature forecasting, they are not optimized for operational meteorological use.
+
+Due to their size, I cannot upload the compressed data files WRF.tar.gz and so the easiest possible solution would be to use Dropbox/Google Drive personally.
 
 ---
